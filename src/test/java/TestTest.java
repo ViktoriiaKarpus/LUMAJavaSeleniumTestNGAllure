@@ -12,7 +12,7 @@ public class TestTest {
 
    @Ignore
     @Test
-    public void testFail(){
+    public void testFail() {
 
         Assert.assertTrue(false);
     }
