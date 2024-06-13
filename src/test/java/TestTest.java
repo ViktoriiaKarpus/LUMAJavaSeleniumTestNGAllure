@@ -11,7 +11,7 @@ public class TestTest {
     }
 
     @Test
-    public void testFail() {
+    public void testFail(){
 
         Assert.assertTrue(false);
     }
